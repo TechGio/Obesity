@@ -1,6 +1,6 @@
 # Obesity
 
-Estimation of obesity levels based on eating habits and physical condition with different Machine Learning techniques:
+Creation of a classifier capable of predicting the level of obesity of an individual on the basis of his eating habits and physical characteristics, using different Machine Learning techniques:
 - Decision Tree
 - Support Vector Machine
 - Nearest Neighbors Classification
